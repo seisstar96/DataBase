@@ -1,0 +1,5 @@
+###
+Normal: Only Normal type fault
+Reverse: Only Reverse type fault
+Strike-Slip:  Only Strike-Slip type fault
+Oblique: Dextral-Reverse , Dextral-Normal , Sinistral-Reverse, Sinistral-Normal
